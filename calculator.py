@@ -170,9 +170,9 @@ add_btn = tk.Button(
     font=("Calibri", 10, "bold"),
     bg="white",
     activebackground="crimson",
-    text=" ",
+    text="+",
     fg="crimson",
-    command=lambda: show_text(2.0, " "),
+    command=lambda: show_text(2.0, "+"),
 )
 sub_btn = tk.Button(
     window,
