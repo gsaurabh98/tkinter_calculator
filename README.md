@@ -1,6 +1,6 @@
 # Calculator #
 
-##  This calculator is used to perform basic mathematics calculation.
+##  This calculator is used to perform basic mathematic calculations.
     Addtion, Subtraction, Multiplication and Division
   
 Libaray Used: tkinter
