@@ -1,6 +1,4 @@
-# README #
-
-# Simple Calculator
+# Calculator #
 
 ##  This calculator is used to perform basic mathematics calculation.
     Addtion, Subtraction, Multiplication and Division
