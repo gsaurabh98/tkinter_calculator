@@ -1,2 +1,12 @@
-# tkinter_calculator
-this code is used to create a simple calculator using tkinter lib
+# README #
+
+# Simple Calculator
+
+##  This calculator is used to perform basic mathematics calculation.
+    Addtion, Subtraction, Multiplication and Division
+  
+Libaray Used: tkinter
+
+Snapshot
+
+![Calculator](calculator.png)
